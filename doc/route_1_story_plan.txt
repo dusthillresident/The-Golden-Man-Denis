@@ -1,0 +1,37 @@
+Plan for the first route - the Linus Torvalds main route
+
+It's the year 19XX, in the middle of the night, in a small village in Finland. An alien spacecraft comes down and lands in the mountains/hills outside of the village, and an alien comes out of it. The alien looks like a normal person, but is a shiny golden colour and very muscular. He walks down into the village, and then the title theme plays and the title text appears - "THE GOLDEN MAN DENIS".
+
+Fast forward 30 years into the future. 
+
+Linus Torvalds' Alarm clock rings, the sun shines through the curtains of his room in Helsinki, and it's time for him to get up and go to work. On his way to work, he meets and greets various people he knows, having short and simple conversations that might give an insight into his life and personality. 
+Lying on the sidewalk is a newspaper, which can be picked up and read. It has various stories in it, stuff about upcoming elections, a famous musician who's been caught up in a scandal and imprisoned, and etc.
+
+Soon he arrives at this place of work, and he has some conversations with people in his office. One of them goes a bit like this: 
+
+Man: "The code you wrote for that *something* was amazing. It's almost like you're... not human or something. Heh heh heh"
+Linus: "How flattering. Hah hah hah hah hah"
+Man: "Hohohohoh"
+
+Another guy in his office is a music fan. He mentions being feeling upset that Victor Wooten, who was one of his favorite musicians, has done something terrible and is in prison.
+And perhaps some of the other conversations would show that Linus and these guys in the office don't really know the details of what it is they're working on. And this might show that Linus is becoming quite curious himself about the purpose and true subject of the research.
+
+Linus sits down to work at his computer, then realizes that he's missing some important documents or something. He goes to get them, and gets lost in a part of the building that he hasn't been to. He walks through a security door that has been accidentally left unlocked and open. The scenery begins to get strange and creepy. There are jars with embryos. strange machines and stuff. At this point he's no longer looking for those documents, but is wandering around in shock and awe. Then suddenly, a human-alien soldier prototype breaks free of the cage/sealed room/space it was contained in, and attacks Linus.
+
+He defeats it, but is then captured by guards who were alerted by some sort of alarm system. The government and businesses involved in the research decide that he's seen too much, and they bring up some false charges against him (perhaps rape or something), and he gets sent to prison. Later, police/government agent thugs are sent to his cell. Their job is to kill Linus and make it look like a suicide. Just as they've restrained him, Deven Gallo and Victor Wooten break into the cell and knock the agents unconcious using a taser or something. They all escape from the prison together. 
+
+Once they're all hiding away somewhere safely, Victor and Deven explain that they know of Linus's involvement in the project. They explain that they're members of a resistance movement which is fighting against the project. It's revealed that the aim of the project is to create a powerful biological weapon - an army of strong half-human, half alien soldiers, that they would use to control the entire world by force. 
+
+They ask Linus to join the resistance. Linus can't return to his normal life. If he's seen in public, he'll be arrested immediately. Many of his friends/acquaintances have been fooled by the false charges brought against him, and think he's guilty. And he's shocked and angered by the project, and how they've tried to dispose of him. And so he agrees to join the resistance. 
+
+The nearest resistance base is a fair distance from their current location, so they camp for the night. This gives them a chance to talk, and get to know each other. 
+Victor reveals that he was thrown into prison for writing pro-freedom music with anti-government lyrics, and being a general nuisance to the government.
+And Deven, who has been working for the resistance, was imprisoned for attempting to break into a research facility. 
+
+The next morning, they head through a forest and through a cave to get to the closest resistance base, which is located underground in the wilderness outside Helsinki. During the journey, you battle various monsters along the way (wild animals, etc). 
+This gives the player a chance to notice that Deven has more HP and strength than Linus and Victor (perhaps Linus and Victor would be around 70HP while Deven would be 150). Deven also has a special move, the 'Deven Gallo laser'. It only has a small probability of hitting the target, but when it does hit, it does a massive amount of damage. The idea is that we want to show the player that Deven is really strong. The player might come to like Deven and rely on his strength to get through these early parts of the game. 
+
+When they arrive at the base, Deven introduces the people there to Linus and Victor. (I haven't thought of who they would be yet. The base itself should be decorated with lots of weapons and computer equipment). After that, they begin discussing plans for a raid on a genetics facility. There are several known facilities, but they decide to target the one Linus was working at because it's the closest, and Linus knows a bit about the layout and other information that would be useful. They decide to 
+
+It's dangerous for Linus, Deven, and Victor to be seen in public because they're all wanted men. (The same applies to many working for the resistance; most of them are known to the government as freedom fighters and rebels.)
+
